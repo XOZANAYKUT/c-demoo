@@ -1,0 +1,15 @@
+/workspace/c-demoo/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/workspace/c-demoo/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/workspace/c-demoo/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/workspace/c-demoo/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/workspace/c-demoo/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/workspace/c-demoo/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
